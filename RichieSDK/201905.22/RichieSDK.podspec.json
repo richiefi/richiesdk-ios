@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "Richie Ltd": "support@richie.fi"
+    },
+    "frameworks": [
+        "UIKit",
+        "Foundation"
+    ],
+    "homepage": "https://richie.dev",
+    "license": {
+        "file": "LICENSE.txt",
+        "type": "Commercial"
+    },
+    "name": "RichieSDK",
+    "platforms": {
+        "ios": "9.3.5"
+    },
+    "requires_arc": true,
+    "source": {
+        "http": "https://github.com/richiefi/richiesdk-ios/releases/download/201905.22/richiesdk-ios-201905.22.tar.gz"
+    },
+    "summary": "The Richie SDK for iOS",
+    "vendored_frameworks": [
+        "Frameworks/RichieSDK.framework"
+    ],
+    "version": "201905.22"
+}
