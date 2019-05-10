@@ -1,0 +1,34 @@
+{
+    "authors": {
+        "Richie Ltd": "support@richie.fi"
+    },
+    "frameworks": [
+        "AdSupport",
+        "Foundation",
+        "JavaScriptCore",
+        "MediaPlayer",
+        "MessageUI",
+        "SafariServices",
+        "StoreKit",
+        "UIKit",
+        "WebKit"
+    ],
+    "homepage": "https://richie.dev",
+    "license": {
+        "file": "LICENSE.txt",
+        "type": "Commercial"
+    },
+    "name": "RichieSDK",
+    "platforms": {
+        "ios": "9.3.5"
+    },
+    "requires_arc": true,
+    "source": {
+        "http": "https://github.com/richiefi/richiesdk-ios/releases/download/201905.42/richiesdk-ios-201905.42.tar.gz"
+    },
+    "summary": "The Richie SDK for iOS",
+    "vendored_frameworks": [
+        "iOS/RichieSDK.framework"
+    ],
+    "version": "201905.42"
+}
