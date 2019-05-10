@@ -20,7 +20,7 @@
     },
     "name": "RichieSDK",
     "platforms": {
-        "ios": "9.3.5"
+        "ios": "9.3.0"
     },
     "requires_arc": true,
     "source": {
