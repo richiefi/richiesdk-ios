@@ -1,0 +1,44 @@
+{
+    "authors": {
+        "Richie Ltd": "support@richie.fi"
+    },
+    "dependencies": {
+        "PromisesObjC": [
+            "~> 1.2.7"
+        ],
+        "PromisesSwift": [
+            "~> 1.2.7"
+        ]
+    },
+    "frameworks": [
+        "AdSupport",
+        "Foundation",
+        "JavaScriptCore",
+        "MediaPlayer",
+        "MessageUI",
+        "SafariServices",
+        "StoreKit",
+        "UIKit",
+        "WebKit"
+    ],
+    "homepage": "https://richie.dev",
+    "license": {
+        "file": "LICENSE.txt",
+        "type": "Commercial"
+    },
+    "name": "RichieSDK",
+    "platforms": {
+        "ios": "9.3.0"
+    },
+    "requires_arc": true,
+    "source": {
+        "http": "https://github.com/richiefi/richiesdk-ios/releases/download/201905.101/richiesdk-ios-201905.101.tar.gz"
+    },
+    "summary": "The Richie SDK for iOS",
+    "vendored_frameworks": [
+        "iOS/RichieSDK.framework",
+        "iOS/RichieLogging.framework",
+        "iOS/Zip.framework"
+    ],
+    "version": "201905.101"
+}
