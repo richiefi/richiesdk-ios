@@ -20,13 +20,13 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "RichieSDK",
-            url: "https://github.com/richiefi/richiesdk-ios/releases/download/202310.4.0/richiesdk-ios-202310.4.0.zip",
-            checksum: "81acd6f6fc77d6e8f717111c81f0659419324c7ff5de8bb250317ed594f5bfec"
+            url: "https://github.com/richiefi/richiesdk-ios/releases/download/202310.23.0/richiesdk-ios-202310.23.0.zip",
+            checksum: "1785b84ae07621802f12f065e96ceec806eaf187e7c610c978eb4ca42933ec72"
         ),
         .binaryTarget(
             name: "RichieEditionsSDK",
-            url: "https://github.com/richiefi/richiesdk-ios/releases/download/202310.4.0/richieeditionssdk-ios-202310.4.0.zip",
-            checksum: "3eef21a4f4a66c65f726927c4b58dcf3a0fa1cb6de12f1841adddca1fe324c9a"
+            url: "https://github.com/richiefi/richiesdk-ios/releases/download/202310.23.0/richieeditionssdk-ios-202310.23.0.zip",
+            checksum: "ef800cb6218fed087a9f4b9b0d1883dd743883b71ea06d8923cd850f857053d4"
         ),
     ]
 )
